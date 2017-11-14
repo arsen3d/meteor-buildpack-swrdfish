@@ -5,7 +5,7 @@ To use this with heroku:
 1. Set up your app to [deploy to heroku with git](https://devcenter.heroku.com/articles/git).
 2. Set this repository as the buildpack URL:
 
-        heroku buildpacks:set https://github.com/swrdfish/meteor-buildpack-horse.git
+        heroku buildpacks:set https://github.com/arsen3d/meteor-buildpack-swrdfish.git
 
 3. Add the MongoLab addon:
         
